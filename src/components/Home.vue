@@ -5,7 +5,11 @@
     <h2>This is our first Page</h2>
     <h2>This is our main Page</h2>
     <h2>This is our secondary Page</h2>
+<<<<<<< HEAD
     <h2>This is our branch feature</h2>
+=======
+    <h2>This is our feature2 branch</h2>
+>>>>>>> feature2
    
   </div>
 </template>
